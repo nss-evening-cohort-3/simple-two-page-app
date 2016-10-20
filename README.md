@@ -6,8 +6,8 @@ Goal of this (in-class) assignment is to ensure students can quickly:
 2. Install and configure angularJS
 3. Modify Razor Views and Scripts to prove Angular is working.
 
-Estimated 1st pass completion time: 15 min
-Esitmated 2nd pass completion time: < 5 min
+- Estimated 1st pass completion time: *20 minutes*
+- Esitmated 2nd pass completion time: *< 5 minutes*
 
 ## Specifications
 
